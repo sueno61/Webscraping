@@ -1,0 +1,15 @@
+numpy
+pandas
+openpyxl
+xlrd
+
+pytz
+Pillow
+
+jupyterlab
+
+selenium
+requests
+BeautifulSoup4
+
+oauth2client
